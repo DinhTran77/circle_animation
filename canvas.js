@@ -25,7 +25,6 @@ var colorArray = ["#FCFFF5", "#D1DBBD", "#91AA9D", "#3E606F", "#193441"];
 window.addEventListener("mousemove", function(event) {
     mouse.x = event.x;
     mouse.y = event.y;
-    // console.log(mouse);
 });
 
 function Circle(x, y, dx, dy, radius) {
