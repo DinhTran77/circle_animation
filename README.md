@@ -1,5 +1,4 @@
-# Project Name
-Canvas circle animation.
+# Canvas circle animation.
 
 ![circle-animation](./circle-animation.png)
 
